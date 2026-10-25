@@ -16,7 +16,7 @@ Die jeweiligen READMEs erklären Einrichtung, Umfang und Entwicklungsstand. Frü
 
 ## Studium und nächster Schritt
 
-Alle Module meines Informatikstudiums an der FH Dortmund sind bestanden; die Bachelorarbeit steht noch aus. Sie ist mit AMSBECK als KI-Anwendung zur Zuordnung technischer Kundenanfragen zu passenden Kupplungsvarianten geplant. Die konkrete technische Umsetzung ist noch nicht abschließend festgelegt. Den Bachelorabschluss plane ich für Februar 2027, den Vollzeiteinstieg ab 1. April 2027.
+Alle Module meines Informatikstudiums an der FH Dortmund sind bestanden; die Bachelorarbeit steht noch aus. Sie ist mit AMSBECK als KI-Anwendung zur Zuordnung technischer Kundenanfragen zu passenden Kupplungsvarianten geplant. Die konkrete technische Umsetzung ist noch nicht abschließend festgelegt. Den Bachelorabschluss plane ich für Februar 2027.
 
 ## Kontakt
 
